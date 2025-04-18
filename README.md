@@ -28,6 +28,6 @@ In a terminal, once in the main directory, run the command `streamlit run .\app.
 
 ### Gallery
 
-![UI design](./ui_snap.png)
+![UI design](./images/ui_snap.png)
 
-![Example chat](example.png)
+![Example chat](./images/example.png)
